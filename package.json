@@ -1,0 +1,26 @@
+{
+  "name": "limbo-common-css",
+  "version": "1.0.0",
+  "description": "通用CSS库",
+  "main": "index.js",
+  "dependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSS"
+  ],
+  "author": "limbo <yykaue@qq.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yykaue/limbo-common-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yykaue/limbo-common-css/issues"
+  },
+  "homepage": "https://github.com/yykaue/limbo-common-css#readme"
+}
