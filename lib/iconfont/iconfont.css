@@ -1,17 +1,113 @@
 @font-face {
   font-family: "iconfont"; /* Project id 2700821 */
-  src: url('iconfont.woff2?t=1627291318557') format('woff2'),
-       url('iconfont.woff?t=1627291318557') format('woff'),
-       url('iconfont.ttf?t=1627291318557') format('truetype'),
-       url('iconfont.svg?t=1627291318557#iconfont') format('svg');
+  src: url('iconfont.woff2?t=1634178457795') format('woff2'),
+       url('iconfont.woff?t=1634178457795') format('woff'),
+       url('iconfont.ttf?t=1634178457795') format('truetype'),
+       url('iconfont.svg?t=1634178457795#iconfont') format('svg');
 }
 
-.iconfont {
+.iconfont, [class^="icon-"], [class*=" icon-"] {
   font-family: "iconfont" !important;
   font-size: 16px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bianji3:before {
+  content: "\e60a";
+}
+
+.icon-bianjiwenjian:before {
+  content: "\e606";
+}
+
+.icon-shanchu1:before {
+  content: "\e662";
+}
+
+.icon-shenpiguanli:before {
+  content: "\e632";
+}
+
+.icon-shenpiguanli1:before {
+  content: "\e6b0";
+}
+
+.icon-jia1:before {
+  content: "\e604";
+}
+
+.icon-jian1:before {
+  content: "\e605";
+}
+
+.icon-xiayibu:before {
+  content: "\e71e";
+}
+
+.icon-jurassic_next:before {
+  content: "\e69e";
+}
+
+.icon-xiazai-:before {
+  content: "\e652";
+}
+
+.icon-fasong:before {
+  content: "\e615";
+}
+
+.icon-shiyunhang:before {
+  content: "\e619";
+}
+
+.icon-shili:before {
+  content: "\e65e";
+}
+
+.icon-tianjiajihua:before {
+  content: "\e602";
+}
+
+.icon-subscribed:before {
+  content: "\e711";
+}
+
+.icon-wj-fa:before {
+  content: "\e728";
+}
+
+.icon-chehui:before {
+  content: "\e691";
+}
+
+.icon-chehuiqianyue:before {
+  content: "\e614";
+}
+
+.icon-xiangqing:before {
+  content: "\e612";
+}
+
+.icon-liuchengshiliguanli:before {
+  content: "\e618";
+}
+
+.icon-baogao:before {
+  content: "\e61f";
+}
+
+.icon-wentiguanli:before {
+  content: "\e617";
+}
+
+.icon-zhankai-copy:before {
+  content: "\e992";
+}
+
+.icon-zhankai:before {
+  content: "\e62a";
 }
 
 .icon-bianji1:before {
@@ -70,16 +166,8 @@
   content: "\e660";
 }
 
-.icon-edit:before {
-  content: "\e66a";
-}
-
 .icon-biaoge:before {
   content: "\e63e";
-}
-
-.icon-folder:before {
-  content: "\e60f";
 }
 
 .icon-querengongdan:before {
@@ -224,9 +312,5 @@
 
 .icon-chakan1:before {
   content: "\e645";
-}
-
-.icon-chakan2:before {
-  content: "\e610";
 }
 
