@@ -1,6 +1,6 @@
 {
   "name": "limbo-common-css",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "通用CSS库",
   "main": "index.js",
   "dependencies": {},
@@ -10,8 +10,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "patch": "yarn version --patch && git push origin master && git push origin --tags && npm publish",
-    "minor": "yarn version --minor && git push origin master && git push origin --tags",
-    "major": "yarn version --major && git push origin master && git push origin --tags"
+    "minor": "yarn version --minor && git push origin master && git push origin --tags && npm publish",
+    "major": "yarn version --major && git push origin master && git push origin --tags && npm publish"
   },
   "keywords": [
     "CSS"
