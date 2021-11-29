@@ -3,12 +3,10 @@
  */
 import index from './lib/index/index.scss'
 import fontCrm from './lib/iconfont/iconfont.css'
+import iconfont from './lib/iconfont/iconfont'
 
 export {
   index,
-  fontCrm
-}
-export default {
-  index,
-  fontCrm
+  fontCrm,
+  iconfont
 }
