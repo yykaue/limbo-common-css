@@ -5,6 +5,14 @@ body {
   background-color: #F0F2F5;
 }
 
+.icon-svg {
+  width: 14px; 
+  height: 14px;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
 $t: top;
 $b: bottom;
 $l: left;
