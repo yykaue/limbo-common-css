@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 2700821 */
-  src: url('iconfont.woff2?t=1639482045459') format('woff2'),
-       url('iconfont.woff?t=1639482045459') format('woff'),
-       url('iconfont.ttf?t=1639482045459') format('truetype'),
-       url('iconfont.svg?t=1639482045459#iconfont') format('svg');
+  src: url('iconfont.woff2?t=1641548392816') format('woff2'),
+       url('iconfont.woff?t=1641548392816') format('woff'),
+       url('iconfont.ttf?t=1641548392816') format('truetype'),
+       url('iconfont.svg?t=1641548392816#iconfont') format('svg');
 }
 
 .iconfont {
@@ -12,6 +12,46 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shujuzidian:before {
+  content: "\e673";
+}
+
+.icon-zidianguanli:before {
+  content: "\e621";
+}
+
+.icon-xieyuanguanli:before {
+  content: "\e704";
+}
+
+.icon-shujuxieyuanguanxi:before {
+  content: "\e622";
+}
+
+.icon-xieyuan:before {
+  content: "\e674";
+}
+
+.icon-xieyuanguanxi:before {
+  content: "\e675";
+}
+
+.icon-guanliyuan:before {
+  content: "\e64e";
+}
+
+.icon-guanliyuan1:before {
+  content: "\e761";
+}
+
+.icon-a-huaban1fuben130:before {
+  content: "\e662";
+}
+
+.icon-a-huaban1fuben129:before {
+  content: "\e672";
 }
 
 .icon-chengyuanguanli:before {
