@@ -1,6 +1,6 @@
 {
   "name": "limbo-common-css",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "通用CSS库",
   "main": "index.js",
   "dependencies": {},
