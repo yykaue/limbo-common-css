@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3591194 */
-  src: url('iconfont.woff2?t=1712460025536') format('woff2'),
-       url('iconfont.woff?t=1712460025536') format('woff'),
-       url('iconfont.ttf?t=1712460025536') format('truetype'),
-       url('iconfont.svg?t=1712460025536#iconfont') format('svg');
+  src: url('iconfont.woff2?t=1716541377134') format('woff2'),
+       url('iconfont.woff?t=1716541377134') format('woff'),
+       url('iconfont.ttf?t=1716541377134') format('truetype'),
+       url('iconfont.svg?t=1716541377134#iconfont') format('svg');
 }
 
 .iconfont {
@@ -12,6 +12,62 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Sparkloukong:before {
+  content: "\e7ef";
+}
+
+.icon-Shellloukong:before {
+  content: "\e7f2";
+}
+
+.icon-SQLloukong:before {
+  content: "\e7f3";
+}
+
+.icon-k8sloukong:before {
+  content: "\e7f4";
+}
+
+.icon-SQL:before {
+  content: "\e7b6";
+}
+
+.icon-shujuzhiliang:before {
+  content: "\e7ba";
+}
+
+.icon-tiaojianpanduan:before {
+  content: "\e7cd";
+}
+
+.icon-k8s:before {
+  content: "\e7d1";
+}
+
+.icon-python:before {
+  content: "\e7d8";
+}
+
+.icon-shujujicheng:before {
+  content: "\e7d9";
+}
+
+.icon-bianli:before {
+  content: "\e7da";
+}
+
+.icon-xunhuan:before {
+  content: "\e7de";
+}
+
+.icon-Shell:before {
+  content: "\e7e3";
+}
+
+.icon-Spark:before {
+  content: "\e7b9";
 }
 
 .icon-bianjishuru:before {
